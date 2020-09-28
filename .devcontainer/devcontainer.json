@@ -31,7 +31,10 @@
 		"felixfbecker.php-pack",
 		"sophisticode.php-formatter",
 		"github.github-vscode-theme",
-		"mehedidracula.php-namespace-resolver"
+		"mehedidracula.php-namespace-resolver",
+		"convolution.zone-green",
+		"bajdzis.vscode-twig-pack",
+		"gruntfuggly.todo-tree"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
